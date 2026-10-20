@@ -1,0 +1,4 @@
+# Create a ship with primary torpedo stocked
+GT4500,2,0,0,0
+TORPEDO,SINGLE  
+TORPEDO,SINGLE  # should have fired from primary torpedo twice
